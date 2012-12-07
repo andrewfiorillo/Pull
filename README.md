@@ -3,6 +3,6 @@ Pull
 
 A better pull-to-refresh for web apps using -webkit-overflow-scrolling: touch;
 
-<a href="http://pull.andrewfiorillo.com/" target="_blank">http://pull.andrewfiorillo.com</a>
+Check out the demo on an iOS device:
 
-(more coming soon...)
+<a href="http://pull.andrewfiorillo.com/" target="_blank">View demo &raquo;</a>
