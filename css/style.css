@@ -21,7 +21,7 @@ body {
 	height: 100%;
 	width: 100%;
 	margin: 0 auto;
-	position: absolute;
+	position: fixed;
 }
 #header {
 	background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#f4f4f4));
